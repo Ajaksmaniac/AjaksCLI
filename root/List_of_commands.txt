@@ -1,0 +1,15 @@
+cd [directory]  - to move to another directory
+cd .. - to move to the parrent directory
+pcd - prints current path
+refresh - loads file tree 
+mkdir [dirname] - makes empty directory
+rm [dirname] - deletes file or directory
+rmdir [dirname] - deletes empty directory
+rename [dirname] -  rename directory
+copy [source][destination] - copys file or directory to the destination
+move [source] [destination] - move file or directory to the destination
+open[file] - writes out text file
+m - writes out List_of_commands.txt file
+
+exit - stops the program
+
